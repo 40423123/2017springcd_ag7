@@ -1,0 +1,1 @@
+var tipuesearch = {"pages":[{"tags":"misc","title":"About","text":"2016Fall 修課成員網誌","url":"./pages/about/"},{"tags":"seat table","title":"設計二甲座位表","text":"設計二甲座位表 seet","url":"./she-ji-er-jia-zuo-wei-biao.html"},{"tags":"PPT","title":"協同產品設計實習 第一周簡報","text":"上課筆記","url":"./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-jian-bao.html"}]};
